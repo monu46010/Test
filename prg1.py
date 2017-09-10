@@ -17,6 +17,7 @@ n2 = input ("Enter the Second No.")
 n1 = int(n1)
 n2 = int(n2)
 
+#result 345
 
 print ("The sum is",sum_numbers(n1,n2))
 print ("Division result",division(n1,n2))
